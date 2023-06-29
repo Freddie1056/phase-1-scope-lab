@@ -18,5 +18,5 @@ function overwriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = 'billy'
+  leastFavoriteCustomer = 'james'
 }
